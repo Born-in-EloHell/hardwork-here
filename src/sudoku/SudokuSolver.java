@@ -1,6 +1,7 @@
 package sudoku;
 
 /**
+     * valentin Percheron 09/4/14
      * This program is executed in the following way:
      *    java SudokuSolver <input-file>
      * For details of the input-file format,see the Grid.java class.

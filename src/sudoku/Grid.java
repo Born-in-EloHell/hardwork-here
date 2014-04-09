@@ -1,6 +1,7 @@
 package sudoku;
 
 /**
+ * valentin Percheron 09/4/14
  * @author  Patrick Chan
  * @version 1, 12/31/05
  * @see SudokuSolver

@@ -29,8 +29,6 @@ package sudokuSolver;
                 if (grid == null) {
                     // No more grids
                     break;
-                    
-                    oeigheoprjvzq6516
                 }
 
                 // Find a solution

@@ -1,5 +1,10 @@
 package sudokuSolver;
-
+//lsfkhgnrpshvsvv
+/**
+ * @author  yaNico
+ * @version 1, 09/04/2014
+ * @see SudokuSolver
+ */
 /**
      * This program is executed in the following way:
      *    java SudokuSolver <input-file>

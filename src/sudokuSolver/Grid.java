@@ -1,8 +1,8 @@
 package sudokuSolver;
-
+//lsfkhgnrpshvsvv
 /**
- * @author  Patrick Chan
- * @version 1, 12/31/05
+ * @author  yaNico
+ * @version 1, 09/04/2014
  * @see SudokuSolver
  */
 import java.io.*;

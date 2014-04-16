@@ -5,7 +5,6 @@ package sudokuSolver;
  * @version 1, 09/04/2014
  * @see SudokuSolver
  */
-awoudaguagua
 /**
      * This program is executed in the following way:
      *    java SudokuSolver <input-file>
